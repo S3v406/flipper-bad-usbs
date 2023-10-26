@@ -1,12 +1,6 @@
 # Flipper Bad USBS!
 ![image](https://github.com/S3v406/flipper-bad-usbs/assets/126850927/eb6cdf26-4c3e-49e8-be20-a8da62e4bf34)
 
-
-
-
-
-## I AM NOT RESPONSEBLE FOR HOW YOU USE THESE!
-
 ## All by me
 
 | Payloads                                                                                                        | Description                                                                                       | Plug'n'Play | Runs on      |
