@@ -1,8 +1,8 @@
 # Flipper Bad USBS!
 
-I AM NOT RESPONSEBLE FOR HOW YOU USE THESE!
+## I AM NOT RESPONSEBLE FOR HOW YOU USE THESE!
 
-All by me
+## All by me
 
 | Payloads                                                                                                        | Description                                                                                       | Plug'n'Play | Runs on      |
 | :-------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ | :-----------| :------------|
