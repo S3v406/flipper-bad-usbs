@@ -18,6 +18,6 @@
 What me to make your ideas? [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdAMK09G3v0QbYnguRUPCNsvuS12Ol_SYMxd3ZDsQ4DR4-34w/viewform?usp=sf_link)
 
 # Flipper IR shtuf
-[IR shtuff](https://github.com/S3v406/flipper-dump/tree/main/IR)|
+|[IR shtuff](https://github.com/S3v406/flipper-dump/tree/main/IR)|
 [TVS](https://github.com/S3v406/flipper-dump/tree/main/IR/TVS)|
 [School Smart Boards](https://github.com/S3v406/flipper-dump/tree/main/IR/SCHOOL%20SMART%20BOARDS%20W)|
