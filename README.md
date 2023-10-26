@@ -1,4 +1,8 @@
 # Flipper Bad USBS!
+![image](https://github.com/S3v406/flipper-bad-usbs/assets/126850927/9c526dc7-d1ee-4c3b-adec-e1cb63ae0b72)
+
+
+
 
 ## I AM NOT RESPONSEBLE FOR HOW YOU USE THESE!
 
