@@ -1,5 +1,6 @@
 # Table of contents
 [Bad USBS](https://github.com/S3v406/flipper-dump/blob/main/README.md#flipper-bad-usbs)
+[IR](https://github.com/S3v406/flipper-dump/edit/main/README.md#flipper-ir-shtuf)
 
 ![image](https://github.com/S3v406/flipper-dump/assets/126850927/61c628bd-b3a2-4d2c-a655-8d4594ad71c3)
 
@@ -16,3 +17,6 @@
 | [Cheese Burger](https://github.com/S3v406/flipper-bad-usbs/tree/main/Scripts/Chezz%20Burger)                 | Makes a cheese burger in notepad.       |✅           | Windows      | 
 
 What me to make your ideas? [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdAMK09G3v0QbYnguRUPCNsvuS12Ol_SYMxd3ZDsQ4DR4-34w/viewform?usp=sf_link)
+
+# Flipper IR shtuf
+[IR shtuff](https://github.com/S3v406/flipper-dump/tree/main/IR)
