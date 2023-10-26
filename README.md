@@ -1,5 +1,6 @@
 # Flipper Bad USBS!
-![image](https://github.com/S3v406/flipper-bad-usbs/assets/126850927/9c526dc7-d1ee-4c3b-adec-e1cb63ae0b72)
+![image](https://github.com/S3v406/flipper-bad-usbs/assets/126850927/eb6cdf26-4c3e-49e8-be20-a8da62e4bf34)
+
 
 
 
