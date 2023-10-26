@@ -1,23 +1,7 @@
 # Table of contents
-[Bad USBS](
+[Bad USBS](https://github.com/S3v406/flipper-dump/blob/main/README.md#flipper-bad-usbs)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/S3v406/flipper-dump/assets/126850927/61c628bd-b3a2-4d2c-a655-8d4594ad71c3)
 
 # Flipper Bad USBS!
 ![image](https://github.com/S3v406/flipper-bad-usbs/assets/126850927/eb6cdf26-4c3e-49e8-be20-a8da62e4bf34)
