@@ -1,6 +1,5 @@
 # Table of contents
-[Bad USBS](https://github.com/S3v406/flipper-dump/blob/main/README.md#flipper-bad-usbs)
-[IR](https://github.com/S3v406/flipper-dump/edit/main/README.md#flipper-ir-shtuf)
+[Bad USBS](https://github.com/S3v406/flipper-dump/blob/main/README.md#flipper-bad-usbs) | [IR](https://github.com/S3v406/flipper-dump/edit/main/README.md#flipper-ir-shtuf)
 
 ![image](https://github.com/S3v406/flipper-dump/assets/126850927/61c628bd-b3a2-4d2c-a655-8d4594ad71c3)
 
