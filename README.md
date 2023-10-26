@@ -9,4 +9,4 @@ I AM NOT RESPONSEBLE FOR HOW YOU USE THESE!
 | [Disable windows defender](https://github.com/S3v406/flipper-bad-usbs/tree/main/Scripts/No%20more%20win%20defen)               | Disables the devices windows defender                          |✅           | Sev      |      
 | [Cheese Burger](https://github.com/S3v406/flipper-bad-usbs/tree/main/Scripts/Chezz%20Burger)                 | Makes a cheese burger in notepad.       |✅           | Sev      | 
 
-What me to make your ideas? Click here: https://docs.google.com/forms/d/e/1FAIpQLSdAMK09G3v0QbYnguRUPCNsvuS12Ol_SYMxd3ZDsQ4DR4-34w/viewform?usp=sf_link
+What me to make your ideas? [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdAMK09G3v0QbYnguRUPCNsvuS12Ol_SYMxd3ZDsQ4DR4-34w/viewform?usp=sf_link)
