@@ -1,2 +1,1 @@
-# How to 
-[Video](Coming.com)
+Draws a cheese burger. Yum!
