@@ -44,5 +44,5 @@ STRING }
 ENTER
 
 
-Upload-Discord -file "file.txt" -text "test"
+STRING Upload-Discord -file "file.txt" -text "test"
 ENTER
