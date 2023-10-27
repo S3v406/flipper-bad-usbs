@@ -17,10 +17,14 @@
 
 What me to make your ideas? [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdAMK09G3v0QbYnguRUPCNsvuS12Ol_SYMxd3ZDsQ4DR4-34w/viewform?usp=sf_link)
 
+![image](https://github.com/S3v406/flipper-bad-usbs/assets/126850927/eb6cdf26-4c3e-49e8-be20-a8da62e4bf34)
+
 # Flipper IR shtuf
 |[IR shtuff](https://github.com/S3v406/flipper-dump/tree/main/IR)|
 |[TVS](https://github.com/S3v406/flipper-dump/tree/main/IR/TVS)|
 |[School Smart Boards](https://github.com/S3v406/flipper-dump/tree/main/IR/SCHOOL%20SMART%20BOARDS%20W)|
+
+![image](https://github.com/S3v406/flipper-bad-usbs/assets/126850927/eb6cdf26-4c3e-49e8-be20-a8da62e4bf34)
 
 # Tutorials
 |[Uploading To Discord!](https://github.com/S3v406/flipper-dump/tree/main/Tuts/Uploading%20to%20discord)|
