@@ -1,2 +1,1 @@
-# How to 
-[Video](Coming.com)
+It disables windows defender. Duh.
