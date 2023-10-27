@@ -24,3 +24,4 @@ What me to make your ideas? [Click here](https://docs.google.com/forms/d/e/1FAIp
 
 # Tutorials
 |[Uploading To Discord!](https://github.com/S3v406/flipper-dump/tree/main/Tuts/Uploading%20to%20discord)|
+|[Making A Bad USB](https://github.com/S3v406/flipper-dump/tree/main/Tuts/Making%20a%20bad%20USB)|
