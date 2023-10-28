@@ -1,5 +1,5 @@
 # Table of contents
-## [Bad USBS](https://github.com/S3v406/flipper-dump/blob/main/README.md#flipper-bad-usbs) | [IR](https://github.com/S3v406/flipper-dump/tree/main#flipper-ir-shtuf) | [Tutorials](https://github.com/S3v406/flipper-dump/blob/main/README.md#tutorials) | [Software Necessities](https://github.com/S3v406/flipper-dump/blob/main/README.md#software-nesesitys)
+## [Bad USBS](https://github.com/S3v406/flipper-dump/blob/main/README.md#flipper-bad-usbs) | [IR](https://github.com/S3v406/flipper-dump/tree/main#flipper-ir-shtuf) | [Tutorials](https://github.com/S3v406/flipper-dump/blob/main/README.md#tutorials) | [Software Necessities](https://github.com/S3v406/flipper-dump#software-necessities)
 
 <img src= https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/disclaimer.png width="600" alt="C#" />
 </div>
