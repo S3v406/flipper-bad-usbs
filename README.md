@@ -1,5 +1,5 @@
 # Table of contents
-## [Bad USBS](https://github.com/S3v406/flipper-dump/blob/main/README.md#flipper-bad-usbs) | [IR](https://github.com/S3v406/flipper-dump/tree/main#flipper-ir-shtuf) | [Tutorials](https://github.com/S3v406/flipper-dump/blob/main/README.md#tutorials) | [Software nesesitys](https://github.com/S3v406/flipper-dump/blob/main/README.md#software-nesesitys)
+## [Bad USBS](https://github.com/S3v406/flipper-dump/blob/main/README.md#flipper-bad-usbs) | [IR](https://github.com/S3v406/flipper-dump/tree/main#flipper-ir-shtuf) | [Tutorials](https://github.com/S3v406/flipper-dump/blob/main/README.md#tutorials) | [Software Necessities](https://github.com/S3v406/flipper-dump/blob/main/README.md#software-nesesitys)
 
 <img src= https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/disclaimer.png width="600" alt="C#" />
 </div>
@@ -26,5 +26,5 @@ What me to make your ideas? [Click here](https://docs.google.com/forms/d/e/1FAIp
 |[Uploading To Discord!](https://github.com/S3v406/flipper-dump/tree/main/Tuts/Uploading%20to%20discord)|
 |[Making A Bad USB](https://github.com/S3v406/flipper-dump/tree/main/Tuts/Making%20a%20bad%20USB)|
 
-# Software nesesitys
+# Software Necessities
 |Dont know if i can count these as "nesesitys" lol| |[Xtreme](https://github.com/S3v406/flipper-dump/tree/main/Software%20necesites/Xtreme)|
