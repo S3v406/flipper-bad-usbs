@@ -27,4 +27,4 @@ What me to make your ideas? [Click here](https://docs.google.com/forms/d/e/1FAIp
 |[Making A Bad USB](https://github.com/S3v406/flipper-dump/tree/main/Tuts/Making%20a%20bad%20USB)|
 
 # Software nesesitys
-|[Xtreme](https://github.com/S3v406/flipper-dump/tree/main/Software%20necesites/Xtreme)|
+|Dont know if i can count these as "nesesitys" lol| |[Xtreme](https://github.com/S3v406/flipper-dump/tree/main/Software%20necesites/Xtreme)|
