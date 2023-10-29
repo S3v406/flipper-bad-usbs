@@ -1,2 +1,2 @@
-# How to 
-[Video](Coming.com)
+# Delete PC Prank
+All apps must be closed on minimized 
